@@ -70,7 +70,7 @@ const Product = () => {
   });
 
   return (
-    <div className="p-6">
+    <div className="p-6 bg-slate-700">
       {/* 🔍 Search Bar */}
       <div className='z-30 w-[100%] m-auto sticky top-2 bg-slate-50  shadow-2xl border-2 border-slate-300 rounded-4xl px-7 py-2'>
           <div className="mb-4">
