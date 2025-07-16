@@ -50,6 +50,12 @@ const products = [
     image: "https://www.ione.com.kh/wp-content/uploads/2021/05/Apple-Wireless-Keyboard-USA-ione-cambodia.jpg",
     price: 89.99,
   },
+  {
+    id: 9,
+    name: "Phone",
+    image: "https://image-us.samsung.com/us/smartphones/galaxy-z-fold7/images/galaxy-z-fold7-features-durability-3.jpg?imbypass=true",
+    price: 999.99,
+  },
 ];
 
 const Product = () => {
